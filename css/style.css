@@ -290,7 +290,7 @@ body {
 }
 
 @media (max-width: 1200px) {
-  .slide-1 {
+  .slide {
     background-size: cover;
   }
   .card-3 {
