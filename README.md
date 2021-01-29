@@ -1,8 +1,9 @@
 # willberries proj
-Выполнил проект Соколов Михаил
--HTML
--CSS
--JS
+Выполнил проект: Соколов Михаил
+В проекте использовались языки:
+- HTML
+- CSS
+- JS
 Библиотеки:
--Bootstrap
--Swiper Slider JS
+- Bootstrap
+- Swiper Slider JS
